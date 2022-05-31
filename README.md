@@ -1,1 +1,1 @@
-# learning-web-technologies-summer2021-2022-sec-h
+This Repository is for learning Web Technologies.
